@@ -1,0 +1,23 @@
+{
+  "name": "create-new-project",
+  "version": "1.0.0",
+  "description": "CLI tool to help me generate a template project so I can modify to help answer a question 🎉",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook-questions/create-new-project.git"
+  },
+  "keywords": [],
+  "author": "AymKh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/facebook-questions/create-new-project/issues"
+  },
+  "homepage": "https://github.com/facebook-questions/create-new-project#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
