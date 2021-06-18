@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    line-height: 1.5;
+    font-size: 1rem;
+    background-color: #fafafa;
+}
+.container{
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+}
+/* Do not change code above ✋ */
+
+
+
