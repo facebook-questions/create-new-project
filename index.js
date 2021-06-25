@@ -52,7 +52,6 @@ const htmlOnly = (name)=>{
   
 }
 const htmlCss = (name)=>{
-  // recalling htmlOnly to wrtie the html
   let htmlContent = fs.readFileSync("boilerPlate/index.html", "utf8")
   fs.writeFileSync(name+"/index.html", htmlContent)
   let cssContent = fs.readFileSync("boilerPlate/index.css", "utf8")
