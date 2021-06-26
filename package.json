@@ -1,5 +1,5 @@
 {
-  "name": "createnewapp",
+  "name": "create-empty-project",
   "version": "1.0.0",
   "description": "CLI tool to help me generate a template project so I can modify to help answer coding related questions 🎉 I come across on facebook, ...",
   "main": "index.js",
