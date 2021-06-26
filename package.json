@@ -1,8 +1,9 @@
 {
-  "name": "create-new-project",
+  "name": "createnewapp",
   "version": "1.0.0",
-  "description": "CLI tool to help me generate a template project so I can modify to help answer a question 🎉",
+  "description": "CLI tool to help me generate a template project so I can modify to help answer coding related questions 🎉 I come across on facebook, ...",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,9 +11,15 @@
     "type": "git",
     "url": "git+https://github.com/facebook-questions/create-new-project.git"
   },
-  "keywords": [],
+  "keywords": [
+    "create new project",
+    "facebook questions",
+    "html",
+    "css",
+    "javascript"
+  ],
   "author": "AymKh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/facebook-questions/create-new-project/issues"
   },
